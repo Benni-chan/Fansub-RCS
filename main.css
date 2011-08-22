@@ -1,0 +1,33 @@
+body {
+	font-family: Tahoma, Geneva, Arial, Helvetica, san-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-variant: normal;
+	color: #000000;
+	overflow: auto;
+}
+
+td {
+	font-family: Tahoma, Geneva, Arial, Helvetica, san-serif;
+	font-size: 12px;
+
+}
+
+h1 {
+	font-size: 24px;
+}
+
+a:link {
+	color: #4040a0;
+}
+
+a:visited {
+	color: #4040a0;
+}
+
+a:hover {
+	color: #20f0f0;
+	overflow: auto;
+}
+
+
